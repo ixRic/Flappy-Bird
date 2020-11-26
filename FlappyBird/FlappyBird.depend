@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1605526063 source:c:\users\cqbz\desktop\flappybird\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+
+1605766128 source:d:\flappybird\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+
+1605757527 source:d:\flappybird\icon.rc
+
+1605757527 source:d:\flappybird1\icon.rc
+
+1605766323 source:d:\flappybird1\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+
